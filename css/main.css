@@ -13,7 +13,7 @@
 html, body { height: 100%; }
 
 body {
-  background-color: #FFF;
+  background-color: #EEE;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
   text-align: center;
@@ -74,7 +74,7 @@ a:visited { color: #a0a; }
 }
 
 .title a {
-  color: #a00;
+  color: #448;
 }
 
 .title a:hover {
@@ -82,7 +82,7 @@ a:visited { color: #a0a; }
 }
 
 .header a.extra {
-  color: #aaa;
+  color: #aad;
   margin-left: 1em;
 }
 
@@ -96,8 +96,8 @@ a:visited { color: #a0a; }
 
 .footer {
   font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
+  color: #66a;
+  border-top: 4px solid #ddd;
   margin-top: 2em;
   overflow: hidden;
 }
